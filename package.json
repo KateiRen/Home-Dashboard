@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KateiRen/Home-Dashboard/issues"
   },
-  "homepage": "https://github.com/KateiRen/Home-Dashboard#readme"
+  "homepage": "https://github.com/KateiRen/Home-Dashboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
